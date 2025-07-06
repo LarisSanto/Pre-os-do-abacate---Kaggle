@@ -89,16 +89,24 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
+
+### Dashboard Power BI
+
+![image_avocado](https://github.com/user-attachments/assets/7f881f1e-4888-4c96-b760-f3f6e5351bd2)
+
+[Avocado.pdf](https://github.com/user-attachments/files/21091580/Avocado.pdf)
+
+
+
+
+
+
 ## Capturas do Projeto
 
 ![image](https://github.com/user-attachments/assets/0cc34940-564b-45b5-80e0-bb1d4582dba0)
 
 
 
-
-### Dashboard Power BI
-
-[Avocado.pdf](https://github.com/user-attachments/files/21091580/Avocado.pdf)
 
 
 
