@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=header" alt="Capa animada superior" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=header" alt="Capa animada superior" width="1500" />
 </p>
 
 
