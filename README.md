@@ -67,7 +67,7 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
----
+
 
 
 
@@ -88,7 +88,26 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 - **Slicers interativos**: Filtros por ano, tipo e região
 
 
----
+
+## Capturas do Projeto
+
+-
+
+
+### Dashboard Power BI
+
+-
+
+
+### Planilha utilizada
+
+-
+
+### Conexão no Power BI
+
+> **Nota**: Devido a restrições de autenticação OAuth entre o Power BI e o BigQuery, os dados foram exportados como CSV e importados manualmente no Power BI.
+
+
 
 
 
@@ -103,7 +122,7 @@ Este projeto faz parte do meu processo de aprendizado e desenvolvimento pessoal 
 Estou super aberta para sugestôes e dicas!
 
 
----
+
 
 
 
@@ -115,6 +134,8 @@ http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332
 
 
 ---
+
+
 
 <p align="center">Feito com 💛 por Larissa dos Santos Silva</p>
 
