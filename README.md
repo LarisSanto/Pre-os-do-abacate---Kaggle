@@ -51,6 +51,43 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 - **GitHub** – Documentação e publicação do projeto
 
 
+
+
+## 🛠️ Ferramentas Utilizadas
+
+
+
+- **Google BigQuery** – Consulta SQL e exportação dos dados
+
+- **Google Sheets** – Pré-processamento e organização dos dados
+
+- **Power BI Desktop** – Criação do dashboard interativo
+
+- **GitHub** – Documentação e publicação do projeto
+
+
+
+---
+
+
+
+## 📊 Principais Visualizações do Dashboard
+
+
+
+- **Cartões de KPIs**: Preço médio geral, volume total e total de registros
+
+- **Gráfico de Linhas**: Evolução do preço médio por ano
+
+- **Gráfico de Colunas Agrupadas**: Comparação de preço por tipo e ano
+
+- **Gráfico de Barras Horizontais**: Volume total por região
+
+- **Gráfico de Rosca**: Participação por tipo de abacate
+
+- **Slicers interativos**: Filtros por ano, tipo e região
+
+
 ---
 
 
