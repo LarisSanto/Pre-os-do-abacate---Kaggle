@@ -38,19 +38,6 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
-## 🛠️ Ferramentas Utilizadas
-
-
-
-- **Google BigQuery** – Consulta SQL e exportação dos dados
-
-- **Google Sheets** – Pré-processamento e organização dos dados
-
-- **Power BI Desktop** – Criação do dashboard interativo
-
-- **GitHub** – Documentação e publicação do projeto
-
-
 
 
 ## 🛠️ Ferramentas Utilizadas
