@@ -101,6 +101,7 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
+
 ## Capturas do Projeto
 
 ![image](https://github.com/user-attachments/assets/0cc34940-564b-45b5-80e0-bb1d4582dba0)
