@@ -13,12 +13,16 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
+
+
 ## Objetivo do Projeto
 
 - Analisar a variação dos preços médios do abacate nos EUA entre 2015 e 2018.
 - Comparar os tipos de abacate: orgânico vs convencional.
 - Entender o consumo por região e volume total.
 - Criar um dashboard interativo no Power BI com visualizações claras e intuitivas.
+
+
 
 
 
