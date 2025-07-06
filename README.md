@@ -102,6 +102,10 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 - A participação de mercado do tipo convencional é significativamente maior em volume.
 
 
+---
+
+
+
 
 
 ### Dashboard Power BI
@@ -137,6 +141,8 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 --- 
+
+
 
 
 
