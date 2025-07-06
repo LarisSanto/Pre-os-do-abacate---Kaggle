@@ -165,6 +165,9 @@ Estou super aberta para sugestôes e dicas!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
 http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332
+
+https://unique-onion-409.notion.site/Ol-meu-nome-Larissa-dos-Santos-1ffae8705fee800499d2fd44643ebcf5?source=copy_link
+
 ✉️ larissa.santos.silva9902@gmail.com
 
 
