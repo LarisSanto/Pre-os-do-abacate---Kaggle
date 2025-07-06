@@ -89,6 +89,20 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
+## 💡 Principais Insights
+
+
+
+- O **abacate orgânico** apresentou preços consistentemente mais altos que o convencional.
+
+- As **regiões com maior consumo** incluem o sudoeste e nordeste dos EUA.
+
+- O preço do abacate variou bastante ao longo dos anos, com picos notáveis em determinadas épocas.
+
+- A participação de mercado do tipo convencional é significativamente maior em volume.
+
+
+
 
 ### Dashboard Power BI
 
@@ -120,19 +134,9 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
-## 💡 Principais Insights
 
 
-
-- O **abacate orgânico** apresentou preços consistentemente mais altos que o convencional.
-
-- As **regiões com maior consumo** incluem o sudoeste e nordeste dos EUA.
-
-- O preço do abacate variou bastante ao longo dos anos, com picos notáveis em determinadas épocas.
-
-- A participação de mercado do tipo convencional é significativamente maior em volume.
-
-- 
+--- 
 
 
 
