@@ -5,22 +5,7 @@
 
 
 
-## Sobre Mim
-
-Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha formação na Área de Dados.
-
-
-Este projeto faz parte do meu processo de aprendizado e desenvolvimento pessoal e profissional. 
-
-
-Estou super aberta para sugestôes e dicas!
-
-
----
-
-
-🥑 Análise dos Preços do Abacate nos EUA (2015–2018) 🥑
-
+## 🥑 Análise dos Preços do Abacate nos EUA (2015–2018) 🥑
 
 
 Este projeto foi desenvolvido como parte do meu processo de transição de carreira para a área de dados, seguindo os princípios aprendidos no curso **Google Data Analytics**.
@@ -45,6 +30,22 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 - SQL
 
 
+---
+
+
+
+## Sobre Mim
+
+Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha formação na Área de Dados.
+
+
+Este projeto faz parte do meu processo de aprendizado e desenvolvimento pessoal e profissional. 
+
+
+Estou super aberta para sugestôes e dicas!
+
+
+---
 
 
 
