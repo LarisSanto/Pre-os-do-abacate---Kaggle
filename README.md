@@ -8,6 +8,7 @@
 ## 🥑 Análise dos Preços do Abacate nos EUA (2015–2018) 🥑
 
 
+
 Este projeto foi desenvolvido como parte do meu processo de transição de carreira para a área de dados, seguindo os princípios aprendidos no curso **Google Data Analytics**.
 Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** para realizar uma análise exploratória completa dos preços e volumes de venda do abacate nos Estados Unidos, com foco em insights por tipo (orgânico vs convencional), região e ano.
 
