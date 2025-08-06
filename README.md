@@ -41,17 +41,17 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas/Linguagens Utilizadas:
 
 
 
-- **Google BigQuery** – Consulta SQL e exportação dos dados
+- Google BigQuery – Consulta SQL e exportação dos dados
 
-- **Google Sheets** – Pré-processamento e organização dos dados
+- Google Sheets – Pré-processamento e organização dos dados
 
-- **Power BI Desktop** – Criação do dashboard interativo
+- Power BI Desktop – Criação do dashboard interativo
 
-- **GitHub** – Documentação e publicação do projeto
+- GitHub – Documentação e publicação do projeto
 
 
 
@@ -174,4 +174,5 @@ https://unique-onion-409.notion.site/Ol-meu-nome-Larissa-dos-Santos-1ffae8705fee
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
+
 
