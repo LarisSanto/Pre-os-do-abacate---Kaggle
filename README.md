@@ -15,7 +15,6 @@ Utilizei ferramentas como **Google Sheets, Google BigQuery, SQL e Power BI** par
 
 
 
-
 ## Objetivo do Projeto
 
 - Analisar a variação dos preços médios do abacate nos EUA entre 2015 e 2018.
@@ -174,5 +173,6 @@ https://unique-onion-409.notion.site/Ol-meu-nome-Larissa-dos-Santos-1ffae8705fee
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
+
 
 
